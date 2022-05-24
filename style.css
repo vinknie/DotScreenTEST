@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+.display{
+    display: flex;
+}
+
+#grid{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    width: 400px;
+    height: 400px;
+
+}
+
+.cell{
+    border: 1px solid black;
+    height: var(--cell-size);
+    width: var(--cell-size);
+    display: flex;
+}
+
+
+p{
+    
+    height: 70px;
+    width: 200px;
+}

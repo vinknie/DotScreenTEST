@@ -1,0 +1,7 @@
+Tache effectué : 
+
+Timer , Grille de jeu , Switch de joueurs , Si le joueur 1 gagne (console) , 
+
+Tache non effectué : 
+
+Incrémentation des scores , Si le joueurs 2 gagnes , Si il y a égalité, Montrer qui joue , reinitalisation de la grille à la fin du timers.
